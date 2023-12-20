@@ -1,2 +1,3 @@
-# Questionnaire-Publishing-Platform
-The fourth group of software engineering projects provides a questionnaire publishing platform with multiple types of questionnaire templates.
+# 提供多类型问卷模板的问卷发布平台
+软件工程项目
+第四小组
